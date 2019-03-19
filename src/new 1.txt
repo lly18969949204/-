@@ -1,1 +1,1 @@
-allow-autoconfig
+allow-autoconfig=true
